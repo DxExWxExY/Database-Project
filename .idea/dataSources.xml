@@ -15,5 +15,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="@cssrvlab01.utep.edu" uuid="38662739-dc83-415e-8efe-9962d7369ba5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://@ilinkserver.cs.utep.edu:3306/f19_team5</jdbc-url>
+    </data-source>
   </component>
 </project>
