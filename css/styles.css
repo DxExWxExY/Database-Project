@@ -35,6 +35,7 @@
  #mainContentArea:focus, .skipToMainContentLink:focus {
 	 width: auto;
 	 height: auto;
+	 align-content: center;
 }
 /*General*/
  body {
